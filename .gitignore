@@ -1,0 +1,13 @@
+﻿data/
+datasets/
+runs/
+*.pt
+*.onnx
+*.zip
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+.vscode/
+Thumbs.db
